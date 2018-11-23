@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue">#2196F3</color>
+    <color name="description_color">#2e6086</color>
+    <color name="text_color">#6d6d6d</color>
+    <color name="city_name_color">#fff</color>
+    <color name="max_temp_color">#151212</color>
+    <color name="min_temp_color">#4b4141</color>
+    <color name="background_color">#a91247</color>
+
+    <color name="cool_grey_three">#cacdcf</color>
+</resources>
